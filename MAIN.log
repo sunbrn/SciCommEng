@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.25)  5 MAY 2018 15:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.25)  6 MAY 2018 23:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -918,44 +918,40 @@ LaTeX Font Info:    Try loading font information for U+rsfs on input line 105.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-Underfull \hbox (badness 1694) in paragraph at lines 107--109
-[]\T1/ptm/m/n/10 One of the rea-sons for such bril-liant dif-fu-sion of ge-
- []
-
-
 Underfull \hbox (badness 2837) in paragraph at lines 110--111
 []\T1/ptm/m/n/10 Enormous stor-age and com-pu-ta-tional in-fras-truc-tures are
  []
 
 
 LaTeX Warning: Citation `kovalevskaya2016dnadigest' on page 1 undefined on inpu
-t line 123.
+t line 126.
 
 <astrogeno.png, id=41, 1189.44376pt x 312.16624pt>
 File: astrogeno.png Graphic file (type png)
 <use astrogeno.png>
-Package pdftex.def Info: astrogeno.png  used on input line 138.
+Package pdftex.def Info: astrogeno.png  used on input line 141.
 (pdftex.def)             Requested size: 516.0pt x 135.41968pt.
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 2941) in paragraph at lines 191--193
+Underfull \hbox (badness 2941) in paragraph at lines 194--196
 []\T1/ptm/m/n/10 How would "ex-per-i-ments googling" help ge-nomics re-
  []
 
-<chip-seq_workflow.png, id=58, 323.2075pt x 437.635pt>
+[2 <./astrogeno.png>]
+<chip-seq_workflow.png, id=65, 323.2075pt x 437.635pt>
 File: chip-seq_workflow.png Graphic file (type png)
 <use chip-seq_workflow.png>
-Package pdftex.def Info: chip-seq_workflow.png  used on input line 234.
+Package pdftex.def Info: chip-seq_workflow.png  used on input line 237.
 (pdftex.def)             Requested size: 252.0pt x 341.22037pt.
-[2 <./astrogeno.png>]
+
 
 LaTeX Warning: Citation `bernasconi2017conceptual' on page 3 undefined on input
- line 253.
+ line 256.
 
 
-Overfull \hbox (9.85692pt too wide) in paragraph at lines 256--258
+Overfull \hbox (9.85692pt too wide) in paragraph at lines 259--261
 []\T1/ptm/m/n/10 prendere da http://www.bioinformatics.deib.polimi.it/geco/?hom
 e
  []
@@ -964,21 +960,21 @@ No file MAIN.bbl.
 \Changes@OutFile=\write5
 \openout5 = `MAIN.soc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 267.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
 [3
 
  <./chip-seq_workflow.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 267.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
  (./MAIN.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 267.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 267.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
 Package rerunfilecheck Info: File `MAIN.out' has not changed.
 (rerunfilecheck)             Checksum: 36E439EDAA58906236CC3220F90EBB56;403.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 267.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 270.
  ) 
 Here is how much of TeX's memory you used:
  19339 strings out of 492980
@@ -987,13 +983,13 @@ Here is how much of TeX's memory you used:
  22520 multiletter control sequences out of 15000+600000
  115511 words of font info for 133 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 62i,8n,56p,725b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,8n,56p,611b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2016/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
 6/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2016/texmf-d
 ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/
 type1/urw/times/utmri8a.pfb>
-Output written on MAIN.pdf (3 pages, 657348 bytes).
+Output written on MAIN.pdf (3 pages, 657567 bytes).
 PDF statistics:
  93 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
